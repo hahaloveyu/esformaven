@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="esformaven:Web exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/esformaven</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="esformaven/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="esformaven" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
